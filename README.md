@@ -87,17 +87,3 @@ python quiz.py
 Feel free to fork, tweak, and hack your own version.
 
 ---
-
-## 📜 License
-
-This project is open-source under the **MIT License**.
-Use it, break it, fix it, but always share your code.
-
----
-
-*Powered by curiosity and the quest for knowledge. Stay sharp, stay safe.*
-
-```
-
-If you want, I can also generate a slick example `questions.txt` file for you!
-```
